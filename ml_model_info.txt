@@ -1,6 +1,6 @@
 ﻿ML Model: American Football Score Predictions
 Type: Number Regression
-API Url: "https://raw.githubusercontent.com/aviparkhe/football_score_predictor/main/football_scores.csv?token=AUY3C2TELX7IQGFM5O4XWHLA45DKY"
+API Url: "https://raw.githubusercontent.com/aviparkhe/football_score_predictor/main/football_scores.csv"
 # of Features: 3
 Features: Visitor_score, Home_score, Difference
 Technology: Google Colab
